@@ -13,7 +13,7 @@ Endfolder = "/Users/pieter/Desktop/Model_Study/Analyses_results/"
 
 #Define model labels
 Models <- c("RW", "ALR", "Error", "ALR_Error", "Learning", "Full")
-new_labels <- c("RW", "ALR", "Sets","Sets_ALR", "Sets_learning", "Full")
+new_labels <- c("Flat", "ALR", "Sets","Sets_ALR", "Sets_learning", "Full")
 All <- c("True","RW", "ALR", "Sets","Sets_ALR", "Sets_learning", "Full")
 
 #Make dataframes and lists
