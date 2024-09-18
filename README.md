@@ -25,8 +25,15 @@ ___
 
 **Gating** holds scripts for the study:
 *Using top-down gating signals to optimally balance shared versus separated task representations.*
-in Neural Networks (2022)
+in Neural Networks (2022).
 https://doi.org/10.1016/j.neunet.2021.11.030
+___
+
+**Model_meta** holds scripts for the study:
+*Humans adaptively select different computational strategies in different learning environments.*
+
+in Psychological Review (2024).
+https://doi.org/10.1037/rev0000474 
 ___
 
 for questions mail pjverbek.verbeke@ugent.be 
